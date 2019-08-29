@@ -13,4 +13,6 @@ from your R session.
 
 The functions have been coathored by Thomas Verbraken, Seppe van den Brucke and myself.
 
-Current downloads: ![](https://cranlogs.r-pkg.org/badges/grand-total/EMP)
+**Current downloads**
+
+![](https://cranlogs.r-pkg.org/badges/grand-total/EMP)
