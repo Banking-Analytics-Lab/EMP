@@ -32,7 +32,7 @@ Verbraken, T., Bravo, C., Weber, R. and Baesens, B. (2014). Development and appl
 Cristian Bravo, Seppe vanden Broucke and Thomas Verbraken.
 }
 \seealso{
-See Also \code{\link{empChurn}}, \code{\link{prediction}}.
+See Also \code{\link{empChurn}}, \code{\link[ROCR]{prediction}}.
 }
 \examples{
 # Construct artificial probability scores and true class labels

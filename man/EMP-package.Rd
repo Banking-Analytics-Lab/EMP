@@ -18,8 +18,8 @@ assumes a beta distribution and a constant CLV.
 \tabular{ll}{
 Package: \tab EMP\cr
 Type: \tab Package\cr
-Version: \tab 2.0.5\cr
-Date: \tab 2019-07-24\cr
+Version: \tab 2.0.6\cr
+Date: \tab 2025-05-07\cr
 License: \tab GPL (>=3)\cr
 }
 The package exports only two functions, empCreditScoring and empChurn.

@@ -3,11 +3,10 @@ citHeader("To cite the R package 'EMP' in publications, please use one of these 
 year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date)
 vers <- paste("R package version", meta$Version)
 
-citEntry(entry="Manual",
+bibentry(bibtype="Manual",
          title = "EMP: Expected Maximum Profit Classification Performance Measure",
-         author = personList(as.person("Cristian Bravo"),
-                             as.person("Seppe vanden Broucke"),
-                             as.person("Thomas Verbraken")),
+         author = c(person("Cristian Bravo", role="aut"), 
+         person("Seppe vanden Broucke", role="aut"), person("Thomas Verbraken", role="aut")),
          year = year,
          note = vers,
          textVersion =
@@ -17,9 +16,12 @@ citEntry(entry="Manual",
                vers, ". ", "Available Online: http://cran.r-project.org/web/packages/EMP/index.html",
                 sep=""))
 
-citEntry(entry="article",
+bibentry(bibtype="article",
          title = "A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models",
-         author = personList(as.person("T. Verbraken"), as.person("W. Verbeke"), as.person("B. Baesens")),
+         author = c(person("Thomas Verbraken", role="aut"), 
+         person("Wouter Verbeke", role="aut"), 
+         person("Bart Baesens", role="aut")
+         ),
          journal   = "Knowledge and Data Engineering, IEEE Transactions on",
          year = "2013",
          volume = "25",
@@ -32,11 +34,14 @@ citEntry(entry="article",
                 "http://ieeexplore.ieee.org/iel5/69/6486492/06165289.pdf?arnumber=6165289")
 )
 
-citEntry(entry="article",
+bibentry(bibtype="article",
          title = "Development and application of consumer credit scoring 
                   models using profit-based classification measures",
-         author = personList(as.person("T. Verbraken"), as.person("C. Bravo"),
-                  as.person("R. Weber"), as.person("B. Baesens")),
+         author = c(person("Thomas Verbraken", role="aut"), 
+         person("Cristian Bravo", role="aut"), 
+         person("Richard Weber", role="aut"), 
+         person("Bart Baesens", role="aut")
+         ),
          journal   = "European Journal of Operational Research",
          year = "2014",
          volume = "238",

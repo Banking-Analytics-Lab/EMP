@@ -1,8 +1,8 @@
 Package: EMP
 Type: Package
 Title: Expected Maximum Profit Classification Performance Measure
-Version: 2.0.5
-Date: 2019-07-24
+Version: 2.0.6
+Date: 2025-05-07
 Authors@R: c(person("Cristian", "Bravo", role = c("aut", "cre"),
                      email = "cbravoro@uwo.ca"),
               person("Seppe", "vanden Broucke", role = "ctb",
