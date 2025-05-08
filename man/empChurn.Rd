@@ -25,8 +25,8 @@ An EMP object with four components.
 \item{EMPfrac}{The percentage of cases that should be excluded, that is, the percentual cutoff at EMP profit.}
 }
 \references{
-Verbraken, T., Wouter, V. and Baesens, B. (2013). A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models. Knowledge and Data Engineering, IEEE Transactions on. 25 (5): 961-973. Available Online: \url{https://doi.org/10.1109/TKDE.2012.50}
-Verbraken, T., Bravo, C., Weber, R. and Baesens, B. (2014). Development and application of consumer credit scoring models using profit-based classification measures. European Journal of Operational Research. 238 (2): 505 - 513. Available Online: \url{https://doi.org/10.1016/j.ejor.2014.04.001}
+Verbraken, T., Wouter, V. and Baesens, B. (2013). A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models. Knowledge and Data Engineering, IEEE Transactions on. 25 (5): 961-973. Available Online: \doi{10.1109/TKDE.2012.50}
+Verbraken, T., Bravo, C., Weber, R. and Baesens, B. (2014). Development and application of consumer credit scoring models using profit-based classification measures. European Journal of Operational Research. 238 (2): 505 - 513. Available Online: \doi{10.1016/j.ejor.2014.04.001}
 }
 \author{
 Cristian Bravo, Seppe vanden Broucke and Thomas Verbraken.
