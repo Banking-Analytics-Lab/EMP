@@ -11,7 +11,7 @@ install.packages('EMP')
 ```
 from your R session.
 
-The functions have been coathored by Thomas Verbraken, Seppe van den Brucke and myself.
+The functions have been co-authored by Thomas Verbraken, Seppe vanden Broucke and myself.
 
 **Current downloads**
 
