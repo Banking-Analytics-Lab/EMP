@@ -28,7 +28,7 @@ bibentry(bibtype="article",
          number = "5",
          pages = "961-973",
          url = "https://doi.org/10.1109/TKDE.2012.50",
-         textVersion = paste("Verbraken, T., Wouter, V. and Baesens, B. (2013)",
+         textVersion = paste("Verbraken, T., Verbeke, W. and Baesens, B. (2013)",
            "A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models.",
                "Knowledge and Data Engineering, IEEE Transactions on.", "25 (5): 961-973",
                 "https://doi.org/10.1109/TKDE.2012.50")
